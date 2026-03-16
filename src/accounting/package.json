@@ -1,0 +1,13 @@
+{
+  "name": "legacy-cobol-accounting",
+  "version": "1.0.0",
+  "description": "Modernized accounting app ported from COBOL to Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node -e \"console.log('No automated tests yet')\""
+  },
+  "author": "yuvika-6",
+  "license": "MIT",
+  "dependencies": {}
+}
