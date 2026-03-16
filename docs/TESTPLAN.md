@@ -2,6 +2,8 @@
 
 This test plan validates the key business logic for the COBOL app: view balance, credit, debit, and error handling.
 
+> Note: Added an extra comment to retrigger Step 3 workflow based on path filtering.
+
 | Test Case ID | Test Case Description | Pre-conditions | Test Steps | Expected Result | Actual Result | Status (Pass/Fail) | Comments |
 |--------------|------------------------|----------------|------------|-----------------|----------------|--------------------|----------|
 | TC-01 | View initial balance | App has initial balance 1000.00 | Start app, choose option 1, exit | Display 1000.00 | | | |
